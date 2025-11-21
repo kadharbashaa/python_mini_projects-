@@ -49,3 +49,76 @@ python numberGame.py
 🚀 Requirements
 Python 3.x
 No external libraries needed
+
+📝 To-Do List App (Python – Intermediate Project)
+
+A simple and interactive command-line To-Do List Application built using Python.
+This project helps users create, view, update, and delete tasks easily.
+
+🚀 Features
+
+✔ Add new tasks
+✔ View all tasks
+✔ Mark tasks as completed
+✔ Delete tasks
+✔ Saves tasks in a text file (tasks.txt)
+✔ Simple and beginner-friendly code
+✔ No external libraries needed
+
+🗂 Project Structure
+todo.py        # Main application
+tasks.txt      # Auto-created file to store tasks
+
+🛠 How to Run
+
+Make sure you have Python installed.
+
+Open terminal in the project folder.
+
+Run:
+
+python todo.py
+
+
+Follow the menu options shown in the app.
+
+📸 Sample Output
+------- TODO LIST APP -------
+1. Add Task
+2. View Tasks
+3. Mark Complete
+4. Delete Task
+5. Exit
+Enter choice: 1
+Enter new task: Learn Python!
+Task added successfully!
+
+🎯 Learning Outcomes
+
+By building this project, you will learn:
+
+File handling in Python
+
+Working with loops and functions
+
+Basic CRUD operations
+
+Writing clean, modular code
+
+Handling user input
+
+🤝 Contributing
+
+Feel free to fork the repo and improve the project — add new features like:
+
+Due dates
+
+Priority levels
+
+GUI version
+
+Colorful console output
+
+📄 License
+
+This project is free to use for learning and practice.
